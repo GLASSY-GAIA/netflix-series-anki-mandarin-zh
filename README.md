@@ -70,7 +70,7 @@ Learn Mandarin through Chinese Drama Series! This deck is packed with drama scre
 | Ep.5 | (TBU) |[Anki Deck Link](#) | 🇻🇳 🇬🇧 🇪🇸 (LatAm) 🇨🇳简 🇨🇳繁 | 🔜 Coming Soon | 
 
 
-<img src="netflix-love-between-fairy-and-devil-mandarin-zh/love-between-fairy-and-devil-ep4/card-image/front-card4.png" alt="Front Card" width="400"><img src="netflix-love-between-fairy-and-devil-mandarin-zh/love-between-fairy-and-devil-ep4/card-image/back-card4.png" alt="Front Card" width="400">
+<img src="netflix-the-double-mandarin-zh/the-double-ep1/card-image/front-card1.png" alt="Front Card" width="400"><img src="netflix-the-double-mandarin-zh/the-double-ep1/card-image/back-card1.png" alt="Front Card" width="400">
 
 ---
 
