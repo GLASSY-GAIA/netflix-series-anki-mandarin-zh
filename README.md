@@ -11,7 +11,7 @@ Learn Mandarin through Chinese Drama Series! This deck is packed with drama scre
 ## ✨ Features  
 - 🎤 **Speak & Write**: Answer with mic 🎙 or handwriting/keyboard ✍️. Toggle answer anytime (**H** on desktop).  
 - 🎧 **Strong Anchors**: Screenshots + original audio = instant recall.  
-- 🌍 **Subtitles**: Tiếng Việt *(default)*, English, 한국어, ไทย, 中文(简体), 中文(繁體).  
+- 🌍 **Multiple Subtitles**: Tiếng Việt *(default)*, English, 한국어, ไทย, 中文(简体), 中文(繁體) , ...
 - 📚 **Highlights**: Key words, grammar points, phrases with EN + VI notes.  
 - 🌀 **Story Flow**: Cards follow the drama’s storyline = context-driven learning ✨  
 
